@@ -1,6 +1,6 @@
 ## :sparkles: Describe your project
 
-Project SymSpell based Web Application. You can upload kazakh speaken history chat with JSON format and you can see correction to corresponding tables.
+Project SymSpell based [Web Application](https://github.com/jumagaliev1/kazakh-lang-corrector). You can upload kazakh speaken history chat with JSON format and you can see correction to corresponding tables.
 
 **Stack**: [django](https://www.djangoproject.com), [symspell](https://github.com/wolfgarbe/SymSpell)
 
