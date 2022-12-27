@@ -13,6 +13,12 @@ Frequency lists are on the `{word}{space}{numer_of_occurences_in_corpus}`:
 жоқ 165
 ...
 ```
+
+## :camera_flash: Screenshots
+![image](https://user-images.githubusercontent.com/71185943/209662105-f623232d-f5a6-42be-b4bb-ffd9eb68a064.png)
+![image](https://user-images.githubusercontent.com/71185943/209662388-e7ca3819-3f57-4a7f-8e12-31a0dc8418fc.png)
+
+
 ## :rocket: Installation
 This project requires Python 3.7+.
 1. Clone the repository
